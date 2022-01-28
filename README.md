@@ -21,9 +21,9 @@ Discover solutions to AlgoExpert problems in six programming languages: Python, 
 
 ### Problems and Solutions
 
-| Problem Statement                     | Difficulty Level | Category            | Solution Link                                                        | Website Link                                                                       |
-| ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Two Number Sum                        | 🟢               | Arrays              | [Program.java](Easy/TwoNumberSum/Program.java)                       | [Link](https://leetcode.com/problems/two-sum/)                                     |
+| Stars | Problem Statement                     | Difficulty Level | Category            | Solution Link                                                        | Website Link                                                                       |
+| :----: | ------------------------------------- | ---------------- | ------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| :star: | Two Number Sum                        | 🟢               | Arrays              | [Program.java](Easy/TwoNumberSum/Program.java)                       | [Link](https://leetcode.com/problems/two-sum/)                                     |
 | Validate Subsequence                  | 🟢               | Arrays              | [Program.java](Easy/ValidateSubSequence/Program.java)                | [Link](https://leetcode.com/problems/is-subsequence/)                              |
 | Tournament Winner                     | 🟢               | Arrays              | [Program.java](Easy/TournamentWinner/Program.java)                   |
 | Non-Constructible Change              | 🟢               | Arrays              | [Program.java](Easy/NonConstructibleChange/Program.java)             | [Link](https://abheist.com/5-non-constructible-change/)                            |
