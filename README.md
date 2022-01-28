@@ -4,7 +4,9 @@ Discover solutions to AlgoExpert problems in six programming languages: Python, 
 
 ⭐ Table of Contents:
 
-- [List of AlgoExpert Problems and Solutions](#problems-and-solutions)
+- [List of AlgoExpert Problems and Solutions](#list-of-problems-and-solutions)
+  - [Difficulty Levels Guide](#difficulty-levels-guide)
+  - [Problems and Solutions](#problems-and-solutions)
 - [Contributing](#contributing)
 - [Screenshots](#screenshots)
 
