@@ -195,3 +195,10 @@ Ensure to follow the [guidelines](https://github.com/drmacsika/algoexpert-soluti
 ![LinkedList, Recursion, Searching, and Sorting](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/linked_lists_recursion_searching_sorting.png)
 
 ![Stacks, Strings and Tries](https://github.com/drmacsika/algoexpert-solutions/blob/master/templates/stacks_strings_tries.png)
+
+## Contact Info
+
+If you have any question or want to reach me directly,
+[Contact Nsikak Imoh](https://nsikakimoh.com).
+
+## [Go to Top](#top)
