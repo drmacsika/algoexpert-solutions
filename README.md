@@ -14,10 +14,10 @@ Discover solutions to AlgoExpert problems in six programming languages: Python, 
 
 ### Difficulty Levels Guide
 
-- 🟢 : Easy
-- 🔵 : Medium
-- 🔴 : Hard
-- ⚫ : Very Hard
+- 🟢 -> Easy
+- 🔵 -> Medium
+- 🔴 -> Hard
+- ⚫ -> Very Hard
 
 ### Problems and Solutions
 
